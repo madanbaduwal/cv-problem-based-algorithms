@@ -1,4 +1,4 @@
-[dataset](https://github.com/MadanBaduwal/cv_dataset),[CNN architecture](https://github.com/MadanBaduwal/CNN_architecture)
+[For computer vision datasets](https://github.com/MadanBaduwal/cv_dataset),[CNN architecture](https://github.com/MadanBaduwal/CNN_architecture)
 
 # cv_algorithms
 # Typical tasks
