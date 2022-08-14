@@ -11,7 +11,7 @@ one or several pre-specified or learned objects or object classes can be recogni
 
 ### [Objects detection](https://en.wikipedia.org/wiki/Object_detection)
 
-![Object detection](object_detection.png?raw=true "Title")
+![Object detection](images/object_detection.png?raw=true "Title")
 
 
 
