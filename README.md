@@ -1,29 +1,146 @@
-[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
+[dataset](https://github.com/MadanBaduwal/cv_dataset),[CNN architecture](https://github.com/MadanBaduwal/CNN_architecture)
 
-![](https://github.com/MadanBaduwal/MadanBaduwal-problem-based-computer-vision-algorithms/workflows/CI/badge.svg) 
-![](https://github.com/MadanBaduwal/MadanBaduwal-problem-based-computer-vision-algorithms/workflows/GH-Pages%20Status/badge.svg) 
-[![](https://img.shields.io/static/v1?label=fastai&message=fastpages&color=57aeac&labelColor=black&style=flat&logo=data:image/png;base64,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)](https://github.com/fastai/fastpages)
+# cv_algorithms
+# Typical tasks
+## Recognition
+Determining whether or not the image data contains some specific object, feature, or activity.
 
-https://MadanBaduwal.github.io/problem-based-computer-vision-algorithms/
-
-# My Blog
-
-
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+### Object recognition (also called object classification) 
+one or several pre-specified or learned objects or object classes can be recognized, usually together with their 2D positions in the image or 3D poses in the scene. Blippar, Google Goggles and LikeThat provide stand-alone programs that illustrate this functionality.
 
 
-## What To Do Next?
+### [Objects detection](https://en.wikipedia.org/wiki/Object_detection)
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+![Object detection](object_detection.png?raw=true "Title")
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
 
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+After 2014 – Deep Learning Detection period
 
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
+#### Most important two-stage object detection algorithms
 
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
+RCNN  (2014)
 
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+SPPNet (2014)
+
+Fast RCNN (2015)
+
+Faster RCNN (2015)
+
+[Mask-RCNN](https://github.com/matterport/Mask_RCNN)(2017)
+
+Feature  Pyramid Networks/FPN (2017)
+
+D2Det(2020)
+
+G-RCNN (2021)
+
+Sparse R-CNN(2021)
+
+#### Most important one-stage object detection algorithms
+
+You Only Look Once (YOLO) (2016)
+
+YOLO2 (2017)
+
+Single Shot MultiBox Detector (SSD) (2016)
+
+RetinaNet (2017)
+
+YOLOv3 (2018)
+
+CornerNet (2018)
+
+CenterNet
+
+Trident Net(2019)
+
+YOLOv4 (2020)
+
+EffcientNet (2020)
+
+CentripetalNet (2020)
+
+YOLOR (2021)
+
+[Yolo7](https://github.com/jinfagang/yolov7)(2022)
+
+
+[mmdetection](https://github.com/open-mmlab/mmdetection)
+
+
+
+#### Before 2014 – Traditional Object Detection period
+
+Deformable Part-based Model (DPM) (2008) with the first introduction of bounding box regression
+
+HOG Detector (2006), a popular feature descriptor for object detection in computer vision and image processing
+
+Viola-Jones Detector (2001), the pioneering work that started the development of traditional object detection methods
+
+#### References
+
+* [Object Detection in 20 Years: A Survey](https://arxiv.org/pdf/1905.05055.pdf)
+* [A Survey of Deep Learning-based Object Detection](https://arxiv.org/pdf/1907.09408.pdf)
+
+* [paperwithcode](https://paperswithcode.com/task/object-detection)
+
+* [paperwithcode coco dataset](https://paperswithcode.com/sota/real-time-object-detection-on-coco)
+
+### Identification / individual instance of an object is recognized
+
+
+### [Content-based image retrieval](https://en.wikipedia.org/wiki/Content-based_image_retrieval) 
+
+#### References
+* https://arxiv.org/pdf/2012.00641.pdf
+
+
+### [Pose estimation](https://en.wikipedia.org/wiki/Pose_(computer_vision))
+
+### [Optical character recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition)
+### 2D code reading
+
+### [Facial recognition](https://en.wikipedia.org/wiki/Facial_recognition_system)
+
+### [Shape Recognition Technology (SRT)](https://en.wikipedia.org/wiki/Pattern_recognition)
+
+## Motion analysis
+
+
+### [Egomotion](https://en.wikipedia.org/wiki/Visual_odometry#Egomotion)
+
+### [video tracking/ object tracking](https://en.wikipedia.org/wiki/Video_tracking)
+
+[Simple Online And Realtime Tracking] (SORT)(https://github.com/abewley/sort)
+
+
+[DeepSORT](https://arxiv.org/pdf/1703.07402.pdf)
+
+[FairMOT](https://arxiv.org/pdf/2004.01888v6.pdf)
+
+
+[TransMOT] (https://arxiv.org/pdf/2104.00194v2.pdf)
+
+[ByteTrack] (https://arxiv.org/pdf/2110.06864v2.pdf)
+
+### [Optical flow](https://en.wikipedia.org/wiki/Optical_flow)
+
+## Scene reconstruction
+
+## Image restoration
+
+## Image Generation
+## De-noising
+## Super-Resolution
+## 3D Face Animation
+
+## Action Classification in Video
+
+## Image segmentation
+
+## Edge detection
+
+## Image restoration
+
+
